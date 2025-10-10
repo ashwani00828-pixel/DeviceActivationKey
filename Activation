@@ -17,4 +17,10 @@
         "expirydate": "11-10-2025",
         "Allowoffline": true
     },
+    {
+        "device_id": "645832fcd45313cd",
+        "key": "uphacker",
+        "expirydate": "31-12-2025",
+        "Allowoffline": true
+    },
 ]
